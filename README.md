@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm AcclaimedAP
 
-<!--
-**AcclaimedAP/AcclaimedAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building games, tools, and creative projects. Here you'll find a mix of personal projects, collaborations, and open source contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+
+- Game Development
+- Web Technologies (Frontend & Backend)
+- Tooling and Automation
+- Open Source Collaboration
+- Creative Problem Solving
+
+---
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories, open issues, or contribute!  
+You can also reach me via GitHub issues or discussions on any of my projects.
+
+---
+
+Thanks for stopping by!
