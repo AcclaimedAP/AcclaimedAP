@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm AcclaimedAP
+# Hi, I'm AcclaimedAP
 
 ## About
 
